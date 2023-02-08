@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a dot dotdot /boot
+ls -at . .. /boot
