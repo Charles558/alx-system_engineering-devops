@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd -u -n
+echo "$USER"
